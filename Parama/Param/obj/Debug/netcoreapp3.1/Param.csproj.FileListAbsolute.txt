@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\Param\Param\bin\Debug\netcoreapp3.1\Param.exe
+C:\Users\user\source\repos\Param\Param\bin\Debug\netcoreapp3.1\Param.deps.json
+C:\Users\user\source\repos\Param\Param\bin\Debug\netcoreapp3.1\Param.runtimeconfig.json
+C:\Users\user\source\repos\Param\Param\bin\Debug\netcoreapp3.1\Param.runtimeconfig.dev.json
+C:\Users\user\source\repos\Param\Param\bin\Debug\netcoreapp3.1\Param.dll
+C:\Users\user\source\repos\Param\Param\bin\Debug\netcoreapp3.1\Param.pdb
+C:\Users\user\source\repos\Param\Param\obj\Debug\netcoreapp3.1\Param.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Param\Param\obj\Debug\netcoreapp3.1\Param.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Param\Param\obj\Debug\netcoreapp3.1\Param.AssemblyInfo.cs
+C:\Users\user\source\repos\Param\Param\obj\Debug\netcoreapp3.1\Param.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Param\Param\obj\Debug\netcoreapp3.1\Param.dll
+C:\Users\user\source\repos\Param\Param\obj\Debug\netcoreapp3.1\Param.pdb
+C:\Users\user\source\repos\Param\Param\obj\Debug\netcoreapp3.1\Param.genruntimeconfig.cache
